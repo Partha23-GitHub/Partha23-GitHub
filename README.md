@@ -14,8 +14,8 @@
 
 ## Projects
 ### LearnIT - A common E-learning platform for learners and Instructors
-- [GitHub](https://github.com/YourRepo/LearnIT)
-- [Swagger](https://your-swagger-link.com)
+- [GitHub](https://github.com/Partha23-GitHub/LearnIT)
+- [Swagger](http://learnit.eu-north-1.elasticbeanstalk.com/swagger-ui/index.html#/)
 
 Technologies used:
 - Springboot, Hibernate, PostgreSQL, JUnit & Mockito, Swagger, Amazon S3, Elastic Beanstalk.
@@ -28,8 +28,8 @@ Project Highlights:
 - Deployed on AWS Elastic Beanstalk and configured the Nginx proxy server for large requests.
 
 ### PuneetVerse - A short video platform for memes
-- [GitHub](https://github.com/YourRepo/PuneetVerse)
-- [Swagger](https://your-swagger-link.com)
+- [GitHub](https://github.com/Partha23-GitHub/puneetverse-meme)
+- [Swagger](http://puneetverse.eu-north-1.elasticbeanstalk.com/swagger-ui/index.html)
 
 Technologies used:
 - Springboot, Hibernate, MongoDB, Swagger, Amazon S3, AWS Elastic Beanstalk.
@@ -42,8 +42,8 @@ Project Highlights:
 
 ## Achievements
 - Solved 450+ problems on Leetcode. [Link](https://leetcode.com/Partha_BIT/)
-- Completed Java with Springboot - [Certificate](https://your-certificate-link.com)
-- Postman API Fundamentals Student Expert - [Certificate](https://your-certificate-link.com)
+- Completed Java with Springboot - [Certificate](https://www.udemy.com/certificate/UC-01a6c13c-28e0-497b-876a-226cb7c0325f/)
+- Postman API Fundamentals Student Expert - [Certificate](https://badgr.com/public/assertions/m_jgwi34TxSYbd3BiEHf9w?identity__email=parthamanna.bit23%40gmail.com)
 
 
 <!---
