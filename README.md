@@ -41,8 +41,8 @@ Project Highlights:
    Deployed on AWS Elastic Beanstalk and configured the Nginx proxy server for large requests.
 
 ## Achievements
-- Solved 450+ problems on Leetcode. [Profile](https://leetcode.com/Partha_BIT/)
-- Completed Java with Springboot - [Certificate](https://www.udemy.com/certificate/UC-01a6c13c-28e0-497b-876a-226cb7c0325f/)
+- Solved 500+ problems on Leetcode. [Profile](https://leetcode.com/Partha_BIT/)
+- Java with Springboot - [Certificate](https://www.udemy.com/certificate/UC-01a6c13c-28e0-497b-876a-226cb7c0325f/)
 - Postman API Fundamentals Student Expert - [Certificate](https://badgr.com/public/assertions/m_jgwi34TxSYbd3BiEHf9w?identity__email=parthamanna.bit23%40gmail.com)
 
 
